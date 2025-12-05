@@ -1,0 +1,36 @@
+# Flutter/Dart specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+android/key.properties
+ios/Flutter/AppFrameworkInfo.plist
+packages/flutter_tools/.dart_tool/
+packages/flutter_tools/.pub-cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+crash_reports/
+
+# IntelliJ related files
+*.iml
+*.idea
+
+# VS Code related files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Other files
+*.log
+*.swp
+
+# Temporary files
+*.tmp
+
+# Built application files
+build/
